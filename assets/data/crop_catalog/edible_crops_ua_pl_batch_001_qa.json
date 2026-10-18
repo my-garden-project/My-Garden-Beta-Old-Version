@@ -1,0 +1,503 @@
+{
+  "dataset_file": "edible_crops_ua_pl_batch_001_50.json",
+  "checked_on": "2026-07-16",
+  "source_policy_checked_on": "2026-07-30",
+  "quality_policy_asset": "trusted_source_registry.json",
+  "record_count": 50,
+  "unique_catalog_ids": 50,
+  "unique_slugs": 50,
+  "fact_objects_checked": 1500,
+  "agronomy_fact_objects_checked": 800,
+  "agronomy_rule": "Each agronomy fact object must contain at least 5 distinct page-level source URLs. Each record must include at least 2 URLs from the trusted official/scientific domain set and at least one region-specific source. Wikipedia, Wikidata, shops, forums and social networks do not count as agronomic evidence.",
+  "source_count_distribution": {
+    "1": 150,
+    "3": 550,
+    "6": 800
+  },
+  "reliability_distribution": {
+    "high": 764,
+    "medium": 600,
+    "low": 136
+  },
+  "wikidata_ids_resolved": 50,
+  "missing_wikidata_ids": [],
+  "top_source_domains": [
+    [
+      "ovochi.udau.edu.ua",
+      900
+    ],
+    [
+      "extension.umn.edu",
+      850
+    ],
+    [
+      "www.modr.mazowsze.pl",
+      800
+    ],
+    [
+      "socrates.vsau.org",
+      700
+    ],
+    [
+      "extension.usu.edu",
+      550
+    ],
+    [
+      "www.wikidata.org",
+      500
+    ],
+    [
+      "en.wikipedia.org",
+      500
+    ],
+    [
+      "powo.science.kew.org",
+      450
+    ],
+    [
+      "www.rhs.org.uk",
+      450
+    ],
+    [
+      "yardandgarden.extension.iastate.edu",
+      250
+    ],
+    [
+      "extension.psu.edu",
+      150
+    ],
+    [
+      "rozetka.com.ua",
+      100
+    ],
+    [
+      "pubs.extension.wsu.edu",
+      100
+    ],
+    [
+      "www.umass.edu",
+      100
+    ],
+    [
+      "allegro.pl",
+      50
+    ],
+    [
+      "pnos.pl",
+      50
+    ],
+    [
+      "sklep.swiatkwiatow.pl",
+      50
+    ],
+    [
+      "ipm.ucanr.edu",
+      50
+    ]
+  ],
+  "errors": [],
+  "overall_status": "pass_structural_validation",
+  "important_limit": "This QA validates structure, URL counts, dates and source-domain classes. It does not prove that every linked page contains every exact numeric value. Wikipedia, Wikidata, shops, forums and social networks are discovery or community signals only and do not count as agronomic evidence. Crop-specific page-level validation remains required.",
+  "per_record": [
+    {
+      "catalog_id": "UA-PL-001",
+      "slug": "tomato",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q23501",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-002",
+      "slug": "cucumber",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q23425",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-003",
+      "slug": "sweet_pepper",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q1380",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-004",
+      "slug": "eggplant",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q7540",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-005",
+      "slug": "potato",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q10998",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-006",
+      "slug": "carrot",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q11678009",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-007",
+      "slug": "beetroot",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q165437",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-008",
+      "slug": "radish",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q1057750",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-009",
+      "slug": "turnip",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q33690609",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-010",
+      "slug": "parsnip",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q188614",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-011",
+      "slug": "root_parsley",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q2595442",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-012",
+      "slug": "celeriac",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q575174",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-013",
+      "slug": "celery",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q1815126",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-014",
+      "slug": "onion",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q23485",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-015",
+      "slug": "garlic",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q23400",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-016",
+      "slug": "leek",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q1807269",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-017",
+      "slug": "chives",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q51148",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-018",
+      "slug": "white_cabbage",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q62728616",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-019",
+      "slug": "red_cabbage",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q35051",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-020",
+      "slug": "savoy_cabbage",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q146212",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-021",
+      "slug": "cauliflower",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q7537",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-022",
+      "slug": "broccoli",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q47722",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-023",
+      "slug": "brussels_sprouts",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q150463",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-024",
+      "slug": "kale",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q146212",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-025",
+      "slug": "kohlrabi",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q146212",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-026",
+      "slug": "chinese_cabbage",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q3384",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-027",
+      "slug": "bok_choy",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q165178",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-028",
+      "slug": "lettuce",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q83193",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-029",
+      "slug": "spinach",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q81464",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-030",
+      "slug": "swiss_chard",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q157954",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-031",
+      "slug": "arugula",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q5395935",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-032",
+      "slug": "sorrel",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q26297",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-033",
+      "slug": "dill",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q26686",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-034",
+      "slug": "leaf_parsley",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q25284",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-035",
+      "slug": "coriander",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q41611",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-036",
+      "slug": "basil",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q38859",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-037",
+      "slug": "thyme",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q148668",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-038",
+      "slug": "oregano",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q134283",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-039",
+      "slug": "marjoram",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q22694",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-040",
+      "slug": "rosemary",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q102240169",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-041",
+      "slug": "peppermint",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q156037",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-042",
+      "slug": "sage",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q1111359",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-043",
+      "slug": "pea",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q25237",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-044",
+      "slug": "common_bean",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q42339",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-045",
+      "slug": "fava_bean",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q131342",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-046",
+      "slug": "zucchini",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q7229863",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-047",
+      "slug": "pumpkin",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q161180",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-048",
+      "slug": "butternut_squash",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q160571",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-049",
+      "slug": "watermelon",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q17507129",
+      "status": "pass"
+    },
+    {
+      "catalog_id": "UA-PL-050",
+      "slug": "melon",
+      "unique_agronomy_urls": 13,
+      "official_scientific_urls": 13,
+      "wikidata_id": "Q81602",
+      "status": "pass"
+    }
+  ]
+}

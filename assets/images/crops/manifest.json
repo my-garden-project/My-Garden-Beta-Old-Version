@@ -1,0 +1,1109 @@
+{
+  "version": 1,
+  "checkedOn": "2026-07-16",
+  "source": "Wikimedia Commons",
+  "sourcePolicyUrl": "https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia",
+  "note": "Photographs show representative species and growth/harvest states; cultivars and local appearance may differ. Each file keeps its own license.",
+  "records": {
+    "tomato": {
+      "growing": {
+        "asset": "assets/images/crops/tomato_growing.jpg",
+        "fileTitle": "File:Vegetable Garden tomatoes.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vegetable_Garden_tomatoes.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Vegetable_Garden_tomatoes.jpg",
+        "author": "Sankuba Damasus Erasong",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attributionRequired": false
+      },
+      "harvested": {
+        "asset": "assets/images/crops/tomato_harvested.jpg",
+        "fileTitle": "File:Ripe tomatoes.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ripe_tomatoes.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Ripe_tomatoes.jpg",
+        "author": "Geems04",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attributionRequired": true
+      }
+    },
+    "cucumber": {
+      "growing": {
+        "asset": "assets/images/crops/cucumber_growing.jpg",
+        "fileTitle": "File:Leaves of Cucumber (a creeping vine plant).jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leaves_of_Cucumber_(a_creeping_vine_plant).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Leaves_of_Cucumber_%28a_creeping_vine_plant%29.jpg",
+        "author": "Billjones94",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/cucumber_harvested.jpg",
+        "fileTitle": "File:PicklingCucumbers.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:PicklingCucumbers.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/PicklingCucumbers.jpg",
+        "author": "Автор не зазначений у Wikimedia Commons",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attributionRequired": false
+      }
+    },
+    "sweet_pepper": {
+      "growing": {
+        "asset": "assets/images/crops/sweet_pepper_growing.jpg",
+        "fileTitle": "File:Young “Revolution” pepper plant.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Young_%E2%80%9CRevolution%E2%80%9D_pepper_plant.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Young_%E2%80%9CRevolution%E2%80%9D_pepper_plant.jpg",
+        "author": "CreakyHouseMan",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/sweet_pepper_harvested.jpg",
+        "fileTitle": "File:Capsicum annuum fruits IMGP0049.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Capsicum_annuum_fruits_IMGP0049.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Capsicum_annuum_fruits_IMGP0049.jpg",
+        "author": "Nikodem Nijaki",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attributionRequired": true
+      }
+    },
+    "eggplant": {
+      "growing": {
+        "asset": "assets/images/crops/eggplant_growing.jpg",
+        "fileTitle": "File:Solanum melongena 24 08 2012 (1).JPG",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Solanum_melongena_24_08_2012_(1).JPG",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Solanum_melongena_24_08_2012_%281%29.JPG",
+        "author": "Joydeep",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/eggplant_harvested.jpg",
+        "fileTitle": "File:Aubergines sur le marché A.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aubergines_sur_le_march%C3%A9_A.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Aubergines_sur_le_march%C3%A9_A.jpg",
+        "author": "Renhour48",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attributionRequired": false
+      }
+    },
+    "potato": {
+      "growing": {
+        "asset": "assets/images/crops/potato_growing.jpg",
+        "fileTitle": "File:Potato Plant-2.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Potato_Plant-2.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Potato_Plant-2.jpg",
+        "author": "Trikutdas",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/potato_harvested.jpg",
+        "fileTitle": "File:Potatoes ready to pick.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Potatoes_ready_to_pick.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Potatoes_ready_to_pick.jpg",
+        "author": "CosyCobra",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attributionRequired": true
+      }
+    },
+    "carrot": {
+      "growing": {
+        "asset": "assets/images/crops/carrot_growing.jpg",
+        "fileTitle": "File:Carrot-plant-leaves.JPG",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carrot-plant-leaves.JPG",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Carrot-plant-leaves.JPG",
+        "author": "Edukeralam, (Navaneeth Krishnan S)",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/carrot_harvested.jpg",
+        "fileTitle": "File:Bunches of carrots.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bunches_of_carrots.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bunches_of_carrots.jpg",
+        "author": "Robert Couse-Baker",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "attributionRequired": true
+      }
+    },
+    "beetroot": {
+      "growing": {
+        "asset": "assets/images/crops/beetroot_growing.jpg",
+        "fileTitle": "File:-2019-09-15 Beetroot plants, Trimingham.JPG",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:-2019-09-15_Beetroot_plants,_Trimingham.JPG",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/-2019-09-15_Beetroot_plants%2C_Trimingham.JPG",
+        "author": "Kolforn ( Kolforn ) I'd appreciate if you could mail me (Kolforn@gmail.com) if you want to use this picture out of the Wikimedia project scope. This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license. You are free: to share – to copy, distribute and transmit the work to remix – to adapt the work Under the following conditions: attribution – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. share alike – If you remix, transform, or build upon the material, you must distribute your contributions under the same or compatible license as the original. https://creativecommons.org/licenses/by-sa/4.0 CC BY-SA 4.0 Creative Commons Attribution-Share Alike 4.0 true true",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/beetroot_harvested.jpg",
+        "fileTitle": "File:Beets produce-1.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beets_produce-1.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Beets_produce-1.jpg",
+        "author": "Quadell",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "attributionRequired": true
+      }
+    },
+    "radish": {
+      "growing": {
+        "asset": "assets/images/crops/radish_growing.jpg",
+        "fileTitle": "File:Germinating radish.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Germinating_radish.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Germinating_radish.jpg",
+        "author": "Dennis Brown",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/radish_harvested.jpg",
+        "fileTitle": "File:Root of radish.JPG",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Root_of_radish.JPG",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Root_of_radish.JPG",
+        "author": "Nikita Karasik",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attributionRequired": true
+      }
+    },
+    "turnip": {
+      "growing": {
+        "asset": "assets/images/crops/turnip_growing.jpg",
+        "fileTitle": "File:Brassica rapa var. rapa (01).jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brassica_rapa_var._rapa_(01).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Brassica_rapa_var._rapa_%2801%29.jpg",
+        "author": "Rasbak",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/turnip_harvested.jpg",
+        "fileTitle": "File:Turnip-5743 - Hans Braxmeier.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Turnip-5743_-_Hans_Braxmeier.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Turnip-5743_-_Hans_Braxmeier.jpg",
+        "author": "Hans Braxmeier",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attributionRequired": false
+      }
+    },
+    "parsnip": {
+      "growing": {
+        "asset": "assets/images/crops/parsnip_growing.jpg",
+        "fileTitle": "File:Pastinaca sativa 'wild parsnip' 2007-06-02 (plant).JPG",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pastinaca_sativa_%27wild_parsnip%27_2007-06-02_(plant).JPG",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Pastinaca_sativa_%27wild_parsnip%27_2007-06-02_%28plant%29.JPG",
+        "author": "Magnus Manske",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/parsnip_harvested.jpg",
+        "fileTitle": "File:Parsnips with greens.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parsnips_with_greens.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Parsnips_with_greens.jpg",
+        "author": "Jeffery Martin",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attributionRequired": false
+      }
+    },
+    "celeriac": {
+      "growing": {
+        "asset": "assets/images/crops/celeriac_growing.jpg",
+        "fileTitle": "File:Knolselderij plant (Apium graveolens var. rapaceum) 'Dolvi'.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Knolselderij_plant_(Apium_graveolens_var._rapaceum)_%27Dolvi%27.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Knolselderij_plant_%28Apium_graveolens_var._rapaceum%29_%27Dolvi%27.jpg",
+        "author": "Rasbak",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/celeriac_harvested.jpg",
+        "fileTitle": "File:Celeriac.JPG",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Celeriac.JPG",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Celeriac.JPG",
+        "author": "Jonathunder",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attributionRequired": true
+      }
+    },
+    "celery": {
+      "growing": {
+        "asset": "assets/images/crops/celery_growing.jpg",
+        "fileTitle": "File:Apium graveolens 001.JPG",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apium_graveolens_001.JPG",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Apium_graveolens_001.JPG",
+        "author": "H. Zell",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/celery_harvested.jpg",
+        "fileTitle": "File:Bleekselderij groen (Apium graveolens var. dulce green).jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bleekselderij_groen_(Apium_graveolens_var._dulce_green).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Bleekselderij_groen_%28Apium_graveolens_var._dulce_green%29.jpg",
+        "author": "Eric Hunt",
+        "license": "CC BY 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+        "attributionRequired": true
+      }
+    },
+    "onion": {
+      "growing": {
+        "asset": "assets/images/crops/onion_growing.jpg",
+        "fileTitle": "File:-2020-06-20 Onion plant, Trimingham, Norfolk.JPG",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:-2020-06-20_Onion_plant,_Trimingham,_Norfolk.JPG",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/-2020-06-20_Onion_plant%2C_Trimingham%2C_Norfolk.JPG",
+        "author": "Kolforn ( Kolforn ) I'd appreciate if you could mail me (Kolforn@gmail.com) if you want to use this picture out of the Wikimedia project scope. This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license. You are free: to share – to copy, distribute and transmit the work to remix – to adapt the work Under the following conditions: attribution – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. share alike – If you remix, transform, or build upon the material, you must distribute your contributions under the same or compatible license as the original. https://creativecommons.org/licenses/by-sa/4.0 CC BY-SA 4.0 Creative Commons Attribution-Share Alike 4.0 true true",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/onion_harvested.jpg",
+        "fileTitle": "File:Onion harvest.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Onion_harvest.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Onion_harvest.jpg",
+        "author": "Eunice",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "attributionRequired": true
+      }
+    },
+    "garlic": {
+      "growing": {
+        "asset": "assets/images/crops/garlic_growing.jpg",
+        "fileTitle": "File:Garlic plant sown.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Garlic_plant_sown.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Garlic_plant_sown.jpg",
+        "author": "SYFTV1",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attributionRequired": false
+      },
+      "harvested": {
+        "asset": "assets/images/crops/garlic_harvested.jpg",
+        "fileTitle": "File:Garlic bulbs and cloves.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Garlic_bulbs_and_cloves.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Garlic_bulbs_and_cloves.jpg",
+        "author": "Ivar Leidus",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attributionRequired": true
+      }
+    },
+    "leek": {
+      "growing": {
+        "asset": "assets/images/crops/leek_growing.jpg",
+        "fileTitle": "File:Leeks plant in a pot 15.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leeks_plant_in_a_pot_15.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Leeks_plant_in_a_pot_15.jpg",
+        "author": "Netha Hussain",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/leek_harvested.jpg",
+        "fileTitle": "File:Leek.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leek.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Leek.jpg",
+        "author": "Björn König",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attributionRequired": false
+      }
+    },
+    "chives": {
+      "growing": {
+        "asset": "assets/images/crops/chives_growing.jpg",
+        "fileTitle": "File:2018-05-13 Chive plant, Northrepps, Cromer.JPG",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2018-05-13_Chive_plant,_Northrepps,_Cromer.JPG",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/2018-05-13_Chive_plant%2C_Northrepps%2C_Cromer.JPG",
+        "author": "Kolforn ( Kolforn ) I'd appreciate if you could mail me (Kolforn@gmail.com) if you want to use this picture out of the Wikimedia project scope. This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license. You are free: to share – to copy, distribute and transmit the work to remix – to adapt the work Under the following conditions: attribution – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. share alike – If you remix, transform, or build upon the material, you must distribute your contributions under the same or compatible license as the original. https://creativecommons.org/licenses/by-sa/4.0 CC BY-SA 4.0 Creative Commons Attribution-Share Alike 4.0 true true",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/chives_harvested.jpg",
+        "fileTitle": "File:Allium schoenoprasum J1.JPG",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Allium_schoenoprasum_J1.JPG",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Allium_schoenoprasum_J1.JPG",
+        "author": "Jamain",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attributionRequired": true
+      }
+    },
+    "white_cabbage": {
+      "growing": {
+        "asset": "assets/images/crops/white_cabbage_growing.jpg",
+        "fileTitle": "File:Vitoria - Huertas de Olarizu - Repollo en la nieve 01.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vitoria_-_Huertas_de_Olarizu_-_Repollo_en_la_nieve_01.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Vitoria_-_Huertas_de_Olarizu_-_Repollo_en_la_nieve_01.jpg",
+        "author": "Basotxerri",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/white_cabbage_harvested.jpg",
+        "fileTitle": "File:Brassica oleracea2.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brassica_oleracea2.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Brassica_oleracea2.jpg",
+        "author": "Автор не зазначений у Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "attributionRequired": true
+      }
+    },
+    "red_cabbage": {
+      "growing": {
+        "asset": "assets/images/crops/red_cabbage_growing.jpg",
+        "fileTitle": "File:Brassica oleracea Ruby Perfection kz1.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brassica_oleracea_Ruby_Perfection_kz1.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Brassica_oleracea_Ruby_Perfection_kz1.jpg",
+        "author": "Krzysztof Ziarnek, Kenraiz",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/red_cabbage_harvested.jpg",
+        "fileTitle": "File:Red Cabbage cross section showing spirals.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_Cabbage_cross_section_showing_spirals.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Red_Cabbage_cross_section_showing_spirals.jpg",
+        "author": "Ian Alexander",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attributionRequired": true
+      }
+    },
+    "savoy_cabbage": {
+      "growing": {
+        "asset": "assets/images/crops/savoy_cabbage_growing.jpg",
+        "fileTitle": "File:Wirsing Junpflanzen im Erdpresstopf-Josef Schlaghecken.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wirsing_Junpflanzen_im_Erdpresstopf-Josef_Schlaghecken.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Wirsing_Junpflanzen_im_Erdpresstopf-Josef_Schlaghecken.jpg",
+        "author": "Schlaghecken Josef",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/savoy_cabbage_harvested.jpg",
+        "fileTitle": "File:Savoy Cabbage.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Savoy_Cabbage.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Savoy_Cabbage.jpg",
+        "author": "Evelyn Gunn",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attributionRequired": true
+      }
+    },
+    "cauliflower": {
+      "growing": {
+        "asset": "assets/images/crops/cauliflower_growing.jpg",
+        "fileTitle": "File:Cauliflower-Plant-on-chedichatti.JPG",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cauliflower-Plant-on-chedichatti.JPG",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Cauliflower-Plant-on-chedichatti.JPG",
+        "author": "Edukeralam,( Navaneeth Krishnan S)",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/cauliflower_harvested.jpg",
+        "fileTitle": "File:19 - cauliflower.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:19_-_cauliflower.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/19_-_cauliflower.jpg",
+        "author": "Susan Slater",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attributionRequired": true
+      }
+    },
+    "broccoli": {
+      "growing": {
+        "asset": "assets/images/crops/broccoli_growing.jpg",
+        "fileTitle": "File:Broccoli plant.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Broccoli_plant.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Broccoli_plant.jpg",
+        "author": "Rasbak",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/broccoli_harvested.jpg",
+        "fileTitle": "File:Broccoli.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Broccoli.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Broccoli.jpg",
+        "author": "USDA Lance Cheung",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "attributionRequired": true
+      }
+    },
+    "brussels_sprouts": {
+      "growing": {
+        "asset": "assets/images/crops/brussels_sprouts_growing.jpg",
+        "fileTitle": "File:-2020-07-02 Brussel sprout plant (Brassica oleracea var. gemmifera), Trimingham.JPG",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:-2020-07-02_Brussel_sprout_plant_(Brassica_oleracea_var._gemmifera),_Trimingham.JPG",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/-2020-07-02_Brussel_sprout_plant_%28Brassica_oleracea_var._gemmifera%29%2C_Trimingham.JPG",
+        "author": "Kolforn ( Kolforn ) I'd appreciate if you could mail me (Kolforn@gmail.com) if you want to use this picture out of the Wikimedia project scope. This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license. You are free: to share – to copy, distribute and transmit the work to remix – to adapt the work Under the following conditions: attribution – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. share alike – If you remix, transform, or build upon the material, you must distribute your contributions under the same or compatible license as the original. https://creativecommons.org/licenses/by-sa/4.0 CC BY-SA 4.0 Creative Commons Attribution-Share Alike 4.0 true true",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/brussels_sprouts_harvested.jpg",
+        "fileTitle": "File:Brussels Sprouts.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brussels_Sprouts.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Brussels_Sprouts.jpg",
+        "author": "Visitor7",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attributionRequired": true
+      }
+    },
+    "kale": {
+      "growing": {
+        "asset": "assets/images/crops/kale_growing.jpg",
+        "fileTitle": "File:190908 073 Chicago Botanic Gdn - Heritage Garden, Europe Bed, Brassica oleracea Acephala group Red Russian-type Kale, Lavandula x allardii 'Meerlo' Variegated Lavender (48860964763).jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:190908_073_Chicago_Botanic_Gdn_-_Heritage_Garden,_Europe_Bed,_Brassica_oleracea_Acephala_group_Red_Russian-type_Kale,_Lavandula_x_allardii_%27Meerlo%27_Variegated_Lavender_(48860964763).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/190908_073_Chicago_Botanic_Gdn_-_Heritage_Garden%2C_Europe_Bed%2C_Brassica_oleracea_Acephala_group_Red_Russian-type_Kale%2C_Lavandula_x_allardii_%27Meerlo%27_Variegated_Lavender_%2848860964763%29.jpg",
+        "author": "cultivar413 from Fallbrook, California",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/kale_harvested.jpg",
+        "fileTitle": "File:Kale greens in bunches.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kale_greens_in_bunches.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Kale_greens_in_bunches.jpg",
+        "author": "Jeffery Martin",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attributionRequired": false
+      }
+    },
+    "kohlrabi": {
+      "growing": {
+        "asset": "assets/images/crops/kohlrabi_growing.jpg",
+        "fileTitle": "File:Kohlrabi Frostschaden-trotz Folienbedeckung--Josef Schlaghecken.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kohlrabi_Frostschaden-trotz_Folienbedeckung--Josef_Schlaghecken.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Kohlrabi_Frostschaden-trotz_Folienbedeckung--Josef_Schlaghecken.jpg",
+        "author": "Schlaghecken Josef",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/kohlrabi_harvested.jpg",
+        "fileTitle": "File:Kohlrabi Harvest (35788395260).jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kohlrabi_Harvest_(35788395260).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Kohlrabi_Harvest_%2835788395260%29.jpg",
+        "author": "USCapitol from Washington, D.C., United States of America",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attributionRequired": false
+      }
+    },
+    "chinese_cabbage": {
+      "growing": {
+        "asset": "assets/images/crops/chinese_cabbage_growing.jpg",
+        "fileTitle": "File:Chinakohl Bestand mit Tropfbewässerung, Josef Schlaghecken.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chinakohl_Bestand_mit_Tropfbew%C3%A4sserung,_Josef_Schlaghecken.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Chinakohl_Bestand_mit_Tropfbew%C3%A4sserung%2C_Josef_Schlaghecken.jpg",
+        "author": "Schlaghecken Josef",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/chinese_cabbage_harvested.jpg",
+        "fileTitle": "File:Napa cabbage.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Napa_cabbage.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Napa_cabbage.jpg",
+        "author": "Sous Chef",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "attributionRequired": true
+      }
+    },
+    "bok_choy": {
+      "growing": {
+        "asset": "assets/images/crops/bok_choy_growing.jpg",
+        "fileTitle": "File:Young Bok Choy in garden.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Young_Bok_Choy_in_garden.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Young_Bok_Choy_in_garden.jpg",
+        "author": "Geo Lightspeed7",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/bok_choy_harvested.jpg",
+        "fileTitle": "File:Bokchoy.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bokchoy.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Bokchoy.jpg",
+        "author": "Benjwong",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attributionRequired": false
+      }
+    },
+    "lettuce": {
+      "growing": {
+        "asset": "assets/images/crops/lettuce_growing.jpg",
+        "fileTitle": "File:A lettuce plant.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_lettuce_plant.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/A_lettuce_plant.jpg",
+        "author": "Ndiptambe",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attributionRequired": false
+      },
+      "harvested": {
+        "asset": "assets/images/crops/lettuce_harvested.jpg",
+        "fileTitle": "File:Head of lettuce (3010140038).jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Head_of_lettuce_(3010140038).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Head_of_lettuce_%283010140038%29.jpg",
+        "author": "Geoff Peters from Vancouver, BC, Canada",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "attributionRequired": true
+      }
+    },
+    "spinach": {
+      "growing": {
+        "asset": "assets/images/crops/spinach_growing.jpg",
+        "fileTitle": "File:Newly planted Spinach.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Newly_planted_Spinach.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Newly_planted_Spinach.jpg",
+        "author": "Jyotishmita Bhagawati",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/spinach_harvested.jpg",
+        "fileTitle": "File:Spinach leaves.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spinach_leaves.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Spinach_leaves.jpg",
+        "author": "Nillerdk",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "attributionRequired": true
+      }
+    },
+    "arugula": {
+      "growing": {
+        "asset": "assets/images/crops/arugula_growing.jpg",
+        "fileTitle": "File:Arugula.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arugula.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Arugula.jpg",
+        "author": "Photo by Eric Bear Albrecht",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attributionRequired": false
+      },
+      "harvested": {
+        "asset": "assets/images/crops/arugula_harvested.jpg",
+        "fileTitle": "File:Arugula (51107429934).jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arugula_(51107429934).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Arugula_%2851107429934%29.jpg",
+        "author": "Peter Burka",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "attributionRequired": true
+      }
+    },
+    "sorrel": {
+      "growing": {
+        "asset": "assets/images/crops/sorrel_growing.jpg",
+        "fileTitle": "File:Wild sorrel (Rumex acetosa) - geograph.org.uk - 915938.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wild_sorrel_(Rumex_acetosa)_-_geograph.org.uk_-_915938.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Wild_sorrel_%28Rumex_acetosa%29_-_geograph.org.uk_-_915938.jpg",
+        "author": "ceridwen",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/sorrel_harvested.jpg",
+        "fileTitle": "File:Feuilles fraîches d’oseille.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Feuilles_fra%C3%AEches_d%E2%80%99oseille.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Feuilles_fra%C3%AEches_d%E2%80%99oseille.jpg",
+        "author": "Cheikh cherif",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attributionRequired": true
+      }
+    },
+    "dill": {
+      "growing": {
+        "asset": "assets/images/crops/dill_growing.jpg",
+        "fileTitle": "File:Aneth FR 2012.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aneth_FR_2012.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Aneth_FR_2012.jpg",
+        "author": "JLPC",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/dill_harvested.jpg",
+        "fileTitle": "File:Harvesting Dill.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Harvesting_Dill.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Harvesting_Dill.jpg",
+        "author": "Folklore Fusion Focus",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "attributionRequired": true
+      }
+    },
+    "leaf_parsley": {
+      "growing": {
+        "asset": "assets/images/crops/leaf_parsley_growing.jpg",
+        "fileTitle": "File:Parsley plant in a pot 05.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parsley_plant_in_a_pot_05.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Parsley_plant_in_a_pot_05.jpg",
+        "author": "Netha Hussain",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/leaf_parsley_harvested.jpg",
+        "fileTitle": "File:Parsley leaves.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parsley_leaves.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Parsley_leaves.jpg",
+        "author": "Jeffery Martin",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attributionRequired": false
+      }
+    },
+    "coriander": {
+      "growing": {
+        "asset": "assets/images/crops/coriander_growing.jpg",
+        "fileTitle": "File:Beautiful Coriander plant Flowers.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beautiful_Coriander_plant_Flowers.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Beautiful_Coriander_plant_Flowers.jpg",
+        "author": "Kuldeep Singh Deep",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/coriander_harvested.jpg",
+        "fileTitle": "File:A scene of Coriander leaves.JPG",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_scene_of_Coriander_leaves.JPG",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/A_scene_of_Coriander_leaves.JPG",
+        "author": "Thamizhpparithi Maari",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attributionRequired": true
+      }
+    },
+    "basil": {
+      "growing": {
+        "asset": "assets/images/crops/basil_growing.jpg",
+        "fileTitle": "File:Sweet basil plant.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sweet_basil_plant.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Sweet_basil_plant.jpg",
+        "author": "ANBARASU THIRAVIYAM",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/basil_harvested.jpg",
+        "fileTitle": "File:Basil-Basilico-Ocimum basilicum-albahaca.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Basil-Basilico-Ocimum_basilicum-albahaca.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/Basil-Basilico-Ocimum_basilicum-albahaca.jpg",
+        "author": "Castielli",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attributionRequired": true
+      }
+    },
+    "thyme": {
+      "growing": {
+        "asset": "assets/images/crops/thyme_growing.jpg",
+        "fileTitle": "File:Thymus Vulgaris5321.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thymus_Vulgaris5321.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Thymus_Vulgaris5321.jpg",
+        "author": "יעקב",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attributionRequired": false
+      },
+      "harvested": {
+        "asset": "assets/images/crops/thyme_harvested.jpg",
+        "fileTitle": "File:Fresh thyme.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fresh_thyme.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Fresh_thyme.jpg",
+        "author": "Rob Bertholf",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "attributionRequired": true
+      }
+    },
+    "oregano": {
+      "growing": {
+        "asset": "assets/images/crops/oregano_growing.jpg",
+        "fileTitle": "File:2018-04-10 Oregano plant, (Origanum vulgare), Northrepps, Cromer.JPG",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2018-04-10_Oregano_plant,_(Origanum_vulgare),_Northrepps,_Cromer.JPG",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/2018-04-10_Oregano_plant%2C_%28Origanum_vulgare%29%2C_Northrepps%2C_Cromer.JPG",
+        "author": "Kolforn ( Kolforn ) I'd appreciate if you could mail me (Kolforn@gmail.com) if you want to use this picture out of the Wikimedia project scope. This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license. You are free: to share – to copy, distribute and transmit the work to remix – to adapt the work Under the following conditions: attribution – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. share alike – If you remix, transform, or build upon the material, you must distribute your contributions under the same or compatible license as the original. https://creativecommons.org/licenses/by-sa/4.0 CC BY-SA 4.0 Creative Commons Attribution-Share Alike 4.0 true true",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/oregano_harvested.jpg",
+        "fileTitle": "File:Orégano fresco..jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Or%C3%A9gano_fresco..jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Or%C3%A9gano_fresco..jpg",
+        "author": "Pandsu",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attributionRequired": true
+      }
+    },
+    "marjoram": {
+      "growing": {
+        "asset": "assets/images/crops/marjoram_growing.jpg",
+        "fileTitle": "File:Marjoram flowers.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marjoram_flowers.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Marjoram_flowers.jpg",
+        "author": "SKsiddhartthan",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/marjoram_harvested.jpg",
+        "fileTitle": "File:Marjoram leaves.JPG",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marjoram_leaves.JPG",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Marjoram_leaves.JPG",
+        "author": "Miansari66",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attributionRequired": false
+      }
+    },
+    "rosemary": {
+      "growing": {
+        "asset": "assets/images/crops/rosemary_growing.jpg",
+        "fileTitle": "File:Rosemary plant by Prahlad balaji 2.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rosemary_plant_by_Prahlad_balaji_2.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Rosemary_plant_by_Prahlad_balaji_2.jpg",
+        "author": "Prahlad balaji",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/rosemary_harvested.jpg",
+        "fileTitle": "File:RosemarySprig.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:RosemarySprig.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/RosemarySprig.jpg",
+        "author": "PilotChicago",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attributionRequired": true
+      }
+    },
+    "peppermint": {
+      "growing": {
+        "asset": "assets/images/crops/peppermint_growing.jpg",
+        "fileTitle": "File:Peppermint Plant.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peppermint_Plant.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Peppermint_Plant.jpg",
+        "author": "Joshua T Polito",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attributionRequired": false
+      },
+      "harvested": {
+        "asset": "assets/images/crops/peppermint_harvested.jpg",
+        "fileTitle": "File:A basket of freshly harvested mint leaves.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_basket_of_freshly_harvested_mint_leaves.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/A_basket_of_freshly_harvested_mint_leaves.jpg",
+        "author": "Halima Waziri",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attributionRequired": true
+      }
+    },
+    "sage": {
+      "growing": {
+        "asset": "assets/images/crops/sage_growing.jpg",
+        "fileTitle": "File:-2020-09-01 Sage plant, Trimingham.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:-2020-09-01_Sage_plant,_Trimingham.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/-2020-09-01_Sage_plant%2C_Trimingham.jpg",
+        "author": "Kolforn ( Kolforn ) I'd appreciate if you could mail me (Kolforn@gmail.com) if you want to use this picture out of the Wikimedia project scope. This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license. You are free: to share – to copy, distribute and transmit the work to remix – to adapt the work Under the following conditions: attribution – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. share alike – If you remix, transform, or build upon the material, you must distribute your contributions under the same or compatible license as the original. https://creativecommons.org/licenses/by-sa/4.0 CC BY-SA 4.0 Creative Commons Attribution-Share Alike 4.0 true true",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/sage_harvested.jpg",
+        "fileTitle": "File:Sage Leaves (4135067049).jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sage_Leaves_(4135067049).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Sage_Leaves_%284135067049%29.jpg",
+        "author": "Andrew Smith from Seattle, WA, USA",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "attributionRequired": true
+      }
+    },
+    "pea": {
+      "growing": {
+        "asset": "assets/images/crops/pea_growing.jpg",
+        "fileTitle": "File:Peas Plant.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peas_Plant.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Peas_Plant.jpg",
+        "author": "HitroMilanese",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/pea_harvested.jpg",
+        "fileTitle": "File:Peas.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peas.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Peas.jpg",
+        "author": "Renee Comet (Photographer)",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attributionRequired": false
+      }
+    },
+    "common_bean": {
+      "growing": {
+        "asset": "assets/images/crops/common_bean_growing.jpg",
+        "fileTitle": "File:Bean plant.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bean_plant.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Bean_plant.jpg",
+        "author": "Dhanalakshmi .K. T",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/common_bean_harvested.jpg",
+        "fileTitle": "File:Phaseolus Vulgaris.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Phaseolus_Vulgaris.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Phaseolus_Vulgaris.jpg",
+        "author": "Aldrina A Manashe",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attributionRequired": false
+      }
+    },
+    "fava_bean": {
+      "growing": {
+        "asset": "assets/images/crops/fava_bean_growing.jpg",
+        "fileTitle": "File:Vicia faba plant (001).jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vicia_faba_plant_(001).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Vicia_faba_plant_%28001%29.jpg",
+        "author": "Rasbak",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/fava_bean_harvested.jpg",
+        "fileTitle": "File:Vicia faba pod (02).jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vicia_faba_pod_(02).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Vicia_faba_pod_%2802%29.jpg",
+        "author": "Rasbak",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attributionRequired": true
+      }
+    },
+    "zucchini": {
+      "growing": {
+        "asset": "assets/images/crops/zucchini_growing.jpg",
+        "fileTitle": "File:Planted Zucchini.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Planted_Zucchini.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Planted_Zucchini.jpg",
+        "author": "Anitah Pezz",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/zucchini_harvested.jpg",
+        "fileTitle": "File:Zucchini in basket 2021 G1.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zucchini_in_basket_2021_G1.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Zucchini_in_basket_2021_G1.jpg",
+        "author": "George Chernilevsky",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attributionRequired": true
+      }
+    },
+    "pumpkin": {
+      "growing": {
+        "asset": "assets/images/crops/pumpkin_growing.jpg",
+        "fileTitle": "File:Plant Cucurbita maxima subsp. andreana growing wild.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plant_Cucurbita_maxima_subsp._andreana_growing_wild.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Plant_Cucurbita_maxima_subsp._andreana_growing_wild.jpg",
+        "author": "Fernando Lopez Anido",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/pumpkin_harvested.jpg",
+        "fileTitle": "File:Cucurbita 2011 G1.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cucurbita_2011_G1.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Cucurbita_2011_G1.jpg",
+        "author": "George Chernilevsky",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attributionRequired": false
+      }
+    },
+    "butternut_squash": {
+      "growing": {
+        "asset": "assets/images/crops/butternut_squash_growing.jpg",
+        "fileTitle": "File:Courge Butternut Zenith horticole.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Courge_Butternut_Zenith_horticole.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Courge_Butternut_Zenith_horticole.jpg",
+        "author": "Jebulon",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attributionRequired": false
+      },
+      "harvested": {
+        "asset": "assets/images/crops/butternut_squash_harvested.jpg",
+        "fileTitle": "File:Cucurbita moschata Butternut 2012 G2.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cucurbita_moschata_Butternut_2012_G2.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Cucurbita_moschata_Butternut_2012_G2.jpg",
+        "author": "George Chernilevsky",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attributionRequired": false
+      }
+    },
+    "watermelon": {
+      "growing": {
+        "asset": "assets/images/crops/watermelon_growing.jpg",
+        "fileTitle": "File:Starr-090810-4161-Citrullus lanatus-young plant in garden-Olinda-Maui (24676519850).jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-090810-4161-Citrullus_lanatus-young_plant_in_garden-Olinda-Maui_(24676519850).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Starr-090810-4161-Citrullus_lanatus-young_plant_in_garden-Olinda-Maui_%2824676519850%29.jpg",
+        "author": "Forest and Kim Starr",
+        "license": "CC BY 3.0 us",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/deed.en",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/watermelon_harvested.jpg",
+        "fileTitle": "File:Watermelon-garden.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Watermelon-garden.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Watermelon-garden.jpg",
+        "author": "Kumon",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "attributionRequired": true
+      }
+    },
+    "melon": {
+      "growing": {
+        "asset": "assets/images/crops/melon_growing.jpg",
+        "fileTitle": "File:Sweet melon plant 4.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sweet_melon_plant_4.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Sweet_melon_plant_4.jpg",
+        "author": "Nizil Shah",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/melon_harvested.jpg",
+        "fileTitle": "File:Fruit of Cucumis melo.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fruit_of_Cucumis_melo.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Fruit_of_Cucumis_melo.jpg",
+        "author": "Krzysztof Golik",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attributionRequired": true
+      }
+    },
+    "root_parsley": {
+      "growing": {
+        "asset": "assets/images/crops/root_parsley_growing.jpg",
+        "fileTitle": "File:Parsley.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parsley.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/Parsley.jpg",
+        "author": "No machine-readable author provided. Ranveig assumed (based on copyright claims).",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attributionRequired": false
+      },
+      "harvested": {
+        "asset": "assets/images/crops/root_parsley_harvested.jpg",
+        "fileTitle": "File:Petersilienwurzeln Wochenmarkt Karlsruhe 2011.JPG",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Petersilienwurzeln_Wochenmarkt_Karlsruhe_2011.JPG",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Petersilienwurzeln_Wochenmarkt_Karlsruhe_2011.JPG",
+        "author": "4028mdk09",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attributionRequired": true
+      }
+    },
+    "swiss_chard": {
+      "growing": {
+        "asset": "assets/images/crops/swiss_chard_growing.jpg",
+        "fileTitle": "File:Chard in the Victory Garden.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chard_in_the_Victory_Garden.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Chard_in_the_Victory_Garden.jpg",
+        "author": "mercedesfromtheeighties",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "attributionRequired": true
+      },
+      "harvested": {
+        "asset": "assets/images/crops/swiss_chard_harvested.jpg",
+        "fileTitle": "File:Chard harvest.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chard_harvest.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Chard_harvest.jpg",
+        "author": "Doug Noon",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "attributionRequired": true
+      }
+    }
+  }
+}

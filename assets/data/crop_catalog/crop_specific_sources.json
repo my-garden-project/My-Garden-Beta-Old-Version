@@ -1,0 +1,385 @@
+{
+  "dataset": "garden_mii_crop_specific_sources",
+  "version": "1.0.0",
+  "checked_on": "2026-07-30",
+  "status": "page_level_baseline",
+  "note": "Кожен запис веде на сторінку або методику саме про вказану культуру. Наявність сторінки не означає, що кожен факт уже підтверджено п'ятьма незалежними джерелами.",
+  "providers": {
+    "rhs": {
+      "publisher": "Royal Horticultural Society",
+      "base_url": "https://www.rhs.org.uk",
+      "evidence_tier": "B",
+      "regions": ["GLOBAL_REFERENCE", "UK"],
+      "default_covers": [
+        "sowing",
+        "transplanting",
+        "spacing",
+        "soil",
+        "watering",
+        "fertilization",
+        "maturity",
+        "harvest",
+        "diseases"
+      ]
+    },
+    "pl_agrofagi": {
+      "publisher": "Platforma Sygnalizacji Agrofagów — IOR-PIB",
+      "base_url": "https://www.agrofagi.com.pl",
+      "evidence_tier": "A",
+      "regions": ["PL"],
+      "default_covers": [
+        "sowing",
+        "transplanting",
+        "spacing",
+        "soil",
+        "watering",
+        "fertilization",
+        "maturity",
+        "harvest",
+        "rotation",
+        "diseases",
+        "plant_protection"
+      ]
+    },
+    "umn_extension": {
+      "publisher": "University of Minnesota Extension",
+      "base_url": "https://extension.umn.edu",
+      "evidence_tier": "B",
+      "regions": ["GLOBAL_REFERENCE", "US_MN"],
+      "default_covers": [
+        "sowing",
+        "transplanting",
+        "spacing",
+        "soil",
+        "watering",
+        "fertilization",
+        "maturity",
+        "harvest",
+        "rotation",
+        "diseases"
+      ]
+    },
+    "usu_extension": {
+      "publisher": "Utah State University Extension",
+      "base_url": "https://extension.usu.edu",
+      "evidence_tier": "B",
+      "regions": ["GLOBAL_REFERENCE", "US_UT"],
+      "default_covers": [
+        "sowing",
+        "transplanting",
+        "spacing",
+        "soil",
+        "watering",
+        "fertilization",
+        "maturity",
+        "harvest",
+        "diseases"
+      ]
+    },
+    "ua_iob_naas": {
+      "publisher": "Інститут овочівництва і баштанництва НААН України",
+      "base_url": "https://ovoch.com",
+      "evidence_tier": "B",
+      "regions": ["UA"],
+      "default_covers": [
+        "soil",
+        "fertilization",
+        "rotation",
+        "diseases",
+        "plant_protection"
+      ]
+    }
+  },
+  "records": {
+    "tomato": {
+      "sources": [
+        {"provider": "rhs", "path": "/vegetables/tomatoes/grow-your-own"},
+        {"provider": "pl_agrofagi", "path": "/plik,3144,pomidor-w-uprawie-polowej.pdf"},
+        {"provider": "pl_agrofagi", "path": "/plik,3145,pomidor-pod-oslonami.pdf"},
+        {"provider": "ua_iob_naas", "path": "/assets/files/naykovi_rozrobku/zaversheni/kuc-pomidor.pdf"}
+      ]
+    },
+    "cucumber": {
+      "sources": [
+        {"provider": "rhs", "path": "/vegetables/cucumbers/grow-your-own"},
+        {"provider": "pl_agrofagi", "path": "/plik,3142,ogorek-w-uprawie-polowej.pdf"},
+        {"provider": "pl_agrofagi", "path": "/plik,3141,ogorek-pod-oslonami.pdf"},
+        {"provider": "ua_iob_naas", "path": "/assets/files/naykovi_rozrobku/zaversheni/kuc-ogirok.pdf"}
+      ]
+    },
+    "sweet_pepper": {
+      "sources": [
+        {"provider": "rhs", "path": "/vegetables/peppers/grow-your-own"},
+        {"provider": "pl_agrofagi", "path": "/plik,3143,papryka.pdf"}
+      ]
+    },
+    "eggplant": {
+      "sources": [
+        {"provider": "umn_extension", "path": "/vegetables/growing-eggplant"},
+        {"provider": "usu_extension", "path": "/yardandgarden/research/eggplant-in-the-garden.pdf"}
+      ]
+    },
+    "potato": {
+      "sources": [
+        {"provider": "rhs", "path": "/vegetables/potatoes/grow-your-own"}
+      ]
+    },
+    "carrot": {
+      "sources": [
+        {"provider": "rhs", "path": "/vegetables/carrots/grow-your-own"},
+        {"provider": "pl_agrofagi", "path": "/plik,3140,marchew.pdf"}
+      ]
+    },
+    "beetroot": {
+      "sources": [
+        {"provider": "rhs", "path": "/vegetables/beetroot/grow-your-own"},
+        {"provider": "pl_agrofagi", "path": "/plik,3132,burak-cwiklowy.pdf"}
+      ]
+    },
+    "radish": {
+      "sources": [
+        {"provider": "rhs", "path": "/vegetables/radishes/grow-your-own"}
+      ]
+    },
+    "turnip": {
+      "sources": [
+        {"provider": "rhs", "path": "/vegetables/turnips/grow-your-own"}
+      ]
+    },
+    "parsnip": {
+      "sources": [
+        {"provider": "rhs", "path": "/vegetables/parsnips/grow-your-own"}
+      ]
+    },
+    "root_parsley": {
+      "sources": [
+        {"provider": "pl_agrofagi", "path": "/plik,3735,pietruszka-korzeniowa-pdf.pdf"}
+      ]
+    },
+    "celeriac": {
+      "sources": [
+        {"provider": "rhs", "path": "/vegetables/celeriac/grow-your-own"}
+      ]
+    },
+    "celery": {
+      "sources": [
+        {"provider": "rhs", "path": "/vegetables/celery/grow-your-own"},
+        {"provider": "pl_agrofagi", "path": "/plik,3149,seler.pdf"}
+      ]
+    },
+    "onion": {
+      "sources": [
+        {"provider": "rhs", "path": "/vegetables/onions/grow-your-own"},
+        {"provider": "pl_agrofagi", "path": "/plik,3133,cebula.pdf"}
+      ]
+    },
+    "garlic": {
+      "sources": [
+        {"provider": "rhs", "path": "/vegetables/garlic/grow-your-own"},
+        {"provider": "pl_agrofagi", "path": "/plik,3759,czosnek-pdf.pdf"}
+      ]
+    },
+    "leek": {
+      "sources": [
+        {"provider": "rhs", "path": "/vegetables/leeks/grow-your-own"},
+        {"provider": "pl_agrofagi", "path": "/plik,3146,por.pdf"}
+      ]
+    },
+    "chives": {
+      "sources": [
+        {"provider": "rhs", "path": "/herbs/chives/grow-your-own"}
+      ]
+    },
+    "white_cabbage": {
+      "sources": [
+        {"provider": "rhs", "path": "/vegetables/cabbages/grow-your-own"},
+        {"provider": "pl_agrofagi", "path": "/plik,3137,kapusta-glowiasta.pdf"}
+      ]
+    },
+    "red_cabbage": {
+      "sources": [
+        {"provider": "rhs", "path": "/vegetables/cabbages/grow-your-own"},
+        {"provider": "pl_agrofagi", "path": "/plik,3137,kapusta-glowiasta.pdf"}
+      ]
+    },
+    "savoy_cabbage": {
+      "sources": [
+        {"provider": "rhs", "path": "/vegetables/cabbages/grow-your-own"},
+        {"provider": "pl_agrofagi", "path": "/plik,3139,kapusta-wloska.pdf"}
+      ]
+    },
+    "cauliflower": {
+      "sources": [
+        {"provider": "rhs", "path": "/vegetables/cauliflower/grow-your-own"},
+        {"provider": "pl_agrofagi", "path": "/plik,3136,kalafior.pdf"}
+      ]
+    },
+    "broccoli": {
+      "sources": [
+        {"provider": "rhs", "path": "/vegetables/broccoli/grow-your-own"},
+        {"provider": "pl_agrofagi", "path": "/plik,3227,brokul.pdf"}
+      ]
+    },
+    "brussels_sprouts": {
+      "sources": [
+        {"provider": "rhs", "path": "/vegetables/brussels-sprouts/grow-your-own"}
+      ]
+    },
+    "kale": {
+      "sources": [
+        {"provider": "rhs", "path": "/vegetables/kale/grow-your-own"}
+      ]
+    },
+    "kohlrabi": {
+      "sources": [
+        {"provider": "rhs", "path": "/vegetables/kohl-rabi/grow-your-own"}
+      ]
+    },
+    "chinese_cabbage": {
+      "sources": [
+        {"provider": "pl_agrofagi", "path": "/plik,3138,kapusta-pekinska.pdf"}
+      ]
+    },
+    "bok_choy": {
+      "sources": [
+        {"provider": "rhs", "path": "/vegetables/pak-choi/grow-your-own"}
+      ]
+    },
+    "lettuce": {
+      "sources": [
+        {"provider": "rhs", "path": "/vegetables/lettuce/grow-your-own"},
+        {"provider": "pl_agrofagi", "path": "/plik,3758,salata-w-uprawie-polowej-i-pod-oslonami-pdf.pdf"}
+      ]
+    },
+    "spinach": {
+      "sources": [
+        {"provider": "rhs", "path": "/vegetables/spinach/grow-your-own"},
+        {"provider": "pl_agrofagi", "path": "/plik,3786,szpinak-pdf.pdf"}
+      ]
+    },
+    "swiss_chard": {
+      "sources": [
+        {"provider": "rhs", "path": "/vegetables/chard/grow-your-own"}
+      ]
+    },
+    "arugula": {
+      "sources": [
+        {"provider": "rhs", "path": "/vegetables/rocket/grow-your-own"}
+      ]
+    },
+    "sorrel": {
+      "sources": [
+        {"provider": "rhs", "path": "/herbs/sorrel/grow-your-own"}
+      ]
+    },
+    "dill": {
+      "sources": [
+        {"provider": "rhs", "path": "/herbs/dill/grow-your-own"}
+      ]
+    },
+    "leaf_parsley": {
+      "sources": [
+        {"provider": "rhs", "path": "/herbs/parsley/grow-your-own"}
+      ]
+    },
+    "coriander": {
+      "sources": [
+        {"provider": "rhs", "path": "/herbs/coriander/grow-your-own"}
+      ]
+    },
+    "basil": {
+      "sources": [
+        {"provider": "rhs", "path": "/herbs/basil/grow-your-own"}
+      ]
+    },
+    "thyme": {
+      "sources": [
+        {"provider": "rhs", "path": "/herbs/thyme/grow-your-own"}
+      ]
+    },
+    "oregano": {
+      "sources": [
+        {"provider": "rhs", "path": "/herbs/oregano/grow-your-own"}
+      ]
+    },
+    "marjoram": {
+      "sources": [
+        {"provider": "rhs", "path": "/herbs/marjoram/grow-your-own"}
+      ]
+    },
+    "rosemary": {
+      "sources": [
+        {"provider": "rhs", "path": "/herbs/rosemary/grow-your-own"}
+      ]
+    },
+    "peppermint": {
+      "sources": [
+        {"provider": "rhs", "path": "/herbs/mint/grow-your-own"}
+      ]
+    },
+    "sage": {
+      "sources": [
+        {"provider": "rhs", "path": "/herbs/sage/grow-your-own"}
+      ]
+    },
+    "pea": {
+      "sources": [
+        {"provider": "rhs", "path": "/vegetables/peas/grow-your-own"},
+        {"provider": "pl_agrofagi", "path": "/plik,3135,groch.pdf"}
+      ]
+    },
+    "common_bean": {
+      "sources": [
+        {"provider": "rhs", "path": "/vegetables/french-beans/grow-your-own"},
+        {"provider": "pl_agrofagi", "path": "/plik,3134,fasola.pdf"}
+      ]
+    },
+    "fava_bean": {
+      "sources": [
+        {"provider": "rhs", "path": "/vegetables/broad-beans/grow-your-own"},
+        {"provider": "pl_agrofagi", "path": "/plik,3131,bob.pdf"}
+      ]
+    },
+    "zucchini": {
+      "sources": [
+        {"provider": "rhs", "path": "/vegetables/courgettes/grow-your-own"},
+        {
+          "provider": "ua_iob_naas",
+          "path": "/assets/files/library/methodical/2021/tehnologiya-kabachok.pdf",
+          "covers": [
+            "sowing",
+            "spacing",
+            "soil",
+            "fertilization",
+            "rotation",
+            "harvest",
+            "diseases",
+            "plant_protection"
+          ]
+        }
+      ]
+    },
+    "pumpkin": {
+      "sources": [
+        {"provider": "rhs", "path": "/vegetables/pumpkins/grow-your-own"}
+      ]
+    },
+    "butternut_squash": {
+      "sources": [
+        {"provider": "rhs", "path": "/vegetables/squash/grow-your-own"}
+      ]
+    },
+    "watermelon": {
+      "sources": [
+        {"provider": "usu_extension", "path": "/yardandgarden/research/watermelon-in-the-garden.pdf"},
+        {"provider": "umn_extension", "path": "/gardening-minnesota/growing-melons-home-garden"}
+      ]
+    },
+    "melon": {
+      "sources": [
+        {"provider": "rhs", "path": "/fruit/melons/grow-your-own"},
+        {"provider": "umn_extension", "path": "/gardening-minnesota/growing-melons-home-garden"}
+      ]
+    }
+  }
+}

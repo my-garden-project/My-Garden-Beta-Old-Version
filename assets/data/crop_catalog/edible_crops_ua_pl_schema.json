@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "EdibleCropCatalogBatch",
+  "type": "object",
+  "required": [
+    "dataset",
+    "batch",
+    "batch_size",
+    "record_count",
+    "checked_on",
+    "records"
+  ],
+  "properties": {
+    "dataset": {
+      "type": "string"
+    },
+    "batch": {
+      "type": "integer"
+    },
+    "batch_size": {
+      "type": "integer"
+    },
+    "record_count": {
+      "type": "integer"
+    },
+    "checked_on": {
+      "type": "string",
+      "format": "date"
+    },
+    "records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "catalog_id",
+          "slug",
+          "names",
+          "taxonomy",
+          "market_availability",
+          "cultivation",
+          "rotation",
+          "companions",
+          "typical_diseases",
+          "knowledge_links",
+          "verification"
+        ]
+      }
+    }
+  }
+}

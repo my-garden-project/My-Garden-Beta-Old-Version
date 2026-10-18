@@ -1,0 +1,506 @@
+{
+  "batch": 1,
+  "count": 50,
+  "records": [
+    {
+      "catalog_id": "UA-PL-001",
+      "slug": "tomato",
+      "name_uk": "помідор",
+      "name_pl": "pomidor",
+      "name_en": "tomato",
+      "latin": "Solanum lycopersicum",
+      "family": "Solanaceae",
+      "wikidata_id": "Q23501"
+    },
+    {
+      "catalog_id": "UA-PL-002",
+      "slug": "cucumber",
+      "name_uk": "огірок",
+      "name_pl": "ogórek",
+      "name_en": "cucumber",
+      "latin": "Cucumis sativus",
+      "family": "Cucurbitaceae",
+      "wikidata_id": "Q23425"
+    },
+    {
+      "catalog_id": "UA-PL-003",
+      "slug": "sweet_pepper",
+      "name_uk": "перець солодкий",
+      "name_pl": "papryka słodka",
+      "name_en": "sweet pepper",
+      "latin": "Capsicum annuum",
+      "family": "Solanaceae",
+      "wikidata_id": "Q1380"
+    },
+    {
+      "catalog_id": "UA-PL-004",
+      "slug": "eggplant",
+      "name_uk": "баклажан",
+      "name_pl": "bakłażan",
+      "name_en": "eggplant",
+      "latin": "Solanum melongena",
+      "family": "Solanaceae",
+      "wikidata_id": "Q7540"
+    },
+    {
+      "catalog_id": "UA-PL-005",
+      "slug": "potato",
+      "name_uk": "картопля",
+      "name_pl": "ziemniak",
+      "name_en": "potato",
+      "latin": "Solanum tuberosum",
+      "family": "Solanaceae",
+      "wikidata_id": "Q10998"
+    },
+    {
+      "catalog_id": "UA-PL-006",
+      "slug": "carrot",
+      "name_uk": "морква",
+      "name_pl": "marchew",
+      "name_en": "carrot",
+      "latin": "Daucus carota subsp. sativus",
+      "family": "Apiaceae",
+      "wikidata_id": "Q11678009"
+    },
+    {
+      "catalog_id": "UA-PL-007",
+      "slug": "beetroot",
+      "name_uk": "буряк столовий",
+      "name_pl": "burak ćwikłowy",
+      "name_en": "beetroot",
+      "latin": "Beta vulgaris subsp. vulgaris Conditiva Group",
+      "family": "Amaranthaceae",
+      "wikidata_id": "Q165437"
+    },
+    {
+      "catalog_id": "UA-PL-008",
+      "slug": "radish",
+      "name_uk": "редиска",
+      "name_pl": "rzodkiewka",
+      "name_en": "radish",
+      "latin": "Raphanus sativus var. sativus",
+      "family": "Brassicaceae",
+      "wikidata_id": "Q1057750"
+    },
+    {
+      "catalog_id": "UA-PL-009",
+      "slug": "turnip",
+      "name_uk": "ріпа",
+      "name_pl": "rzepa",
+      "name_en": "turnip",
+      "latin": "Brassica rapa subsp. rapa",
+      "family": "Brassicaceae",
+      "wikidata_id": "Q33690609"
+    },
+    {
+      "catalog_id": "UA-PL-010",
+      "slug": "parsnip",
+      "name_uk": "пастернак",
+      "name_pl": "pasternak",
+      "name_en": "parsnip",
+      "latin": "Pastinaca sativa",
+      "family": "Apiaceae",
+      "wikidata_id": "Q188614"
+    },
+    {
+      "catalog_id": "UA-PL-011",
+      "slug": "root_parsley",
+      "name_uk": "петрушка коренева",
+      "name_pl": "pietruszka korzeniowa",
+      "name_en": "root parsley",
+      "latin": "Petroselinum crispum subsp. tuberosum",
+      "family": "Apiaceae",
+      "wikidata_id": "Q2595442"
+    },
+    {
+      "catalog_id": "UA-PL-012",
+      "slug": "celeriac",
+      "name_uk": "селера коренева",
+      "name_pl": "seler korzeniowy",
+      "name_en": "celeriac",
+      "latin": "Apium graveolens var. rapaceum",
+      "family": "Apiaceae",
+      "wikidata_id": "Q575174"
+    },
+    {
+      "catalog_id": "UA-PL-013",
+      "slug": "celery",
+      "name_uk": "селера черешкова",
+      "name_pl": "seler naciowy",
+      "name_en": "celery",
+      "latin": "Apium graveolens var. dulce",
+      "family": "Apiaceae",
+      "wikidata_id": "Q1815126"
+    },
+    {
+      "catalog_id": "UA-PL-014",
+      "slug": "onion",
+      "name_uk": "цибуля ріпчаста",
+      "name_pl": "cebula",
+      "name_en": "onion",
+      "latin": "Allium cepa",
+      "family": "Amaryllidaceae",
+      "wikidata_id": "Q23485"
+    },
+    {
+      "catalog_id": "UA-PL-015",
+      "slug": "garlic",
+      "name_uk": "часник",
+      "name_pl": "czosnek",
+      "name_en": "garlic",
+      "latin": "Allium sativum",
+      "family": "Amaryllidaceae",
+      "wikidata_id": "Q23400"
+    },
+    {
+      "catalog_id": "UA-PL-016",
+      "slug": "leek",
+      "name_uk": "цибуля-порей",
+      "name_pl": "por",
+      "name_en": "leek",
+      "latin": "Allium ampeloprasum Leek Group",
+      "family": "Amaryllidaceae",
+      "wikidata_id": "Q1807269"
+    },
+    {
+      "catalog_id": "UA-PL-017",
+      "slug": "chives",
+      "name_uk": "цибуля-шніт",
+      "name_pl": "szczypiorek",
+      "name_en": "chives",
+      "latin": "Allium schoenoprasum",
+      "family": "Amaryllidaceae",
+      "wikidata_id": "Q51148"
+    },
+    {
+      "catalog_id": "UA-PL-018",
+      "slug": "white_cabbage",
+      "name_uk": "капуста білоголова",
+      "name_pl": "kapusta biała",
+      "name_en": "white cabbage",
+      "latin": "Brassica oleracea var. capitata f. alba",
+      "family": "Brassicaceae",
+      "wikidata_id": "Q62728616"
+    },
+    {
+      "catalog_id": "UA-PL-019",
+      "slug": "red_cabbage",
+      "name_uk": "капуста червоноголова",
+      "name_pl": "kapusta czerwona",
+      "name_en": "red cabbage",
+      "latin": "Brassica oleracea var. capitata f. rubra",
+      "family": "Brassicaceae",
+      "wikidata_id": "Q35051"
+    },
+    {
+      "catalog_id": "UA-PL-020",
+      "slug": "savoy_cabbage",
+      "name_uk": "капуста савойська",
+      "name_pl": "kapusta włoska",
+      "name_en": "savoy cabbage",
+      "latin": "Brassica oleracea var. sabauda",
+      "family": "Brassicaceae",
+      "wikidata_id": "Q146212"
+    },
+    {
+      "catalog_id": "UA-PL-021",
+      "slug": "cauliflower",
+      "name_uk": "цвітна капуста",
+      "name_pl": "kalafior",
+      "name_en": "cauliflower",
+      "latin": "Brassica oleracea var. botrytis",
+      "family": "Brassicaceae",
+      "wikidata_id": "Q7537"
+    },
+    {
+      "catalog_id": "UA-PL-022",
+      "slug": "broccoli",
+      "name_uk": "броколі",
+      "name_pl": "brokuł",
+      "name_en": "broccoli",
+      "latin": "Brassica oleracea var. italica",
+      "family": "Brassicaceae",
+      "wikidata_id": "Q47722"
+    },
+    {
+      "catalog_id": "UA-PL-023",
+      "slug": "brussels_sprouts",
+      "name_uk": "брюссельська капуста",
+      "name_pl": "brukselka",
+      "name_en": "Brussels sprouts",
+      "latin": "Brassica oleracea var. gemmifera",
+      "family": "Brassicaceae",
+      "wikidata_id": "Q150463"
+    },
+    {
+      "catalog_id": "UA-PL-024",
+      "slug": "kale",
+      "name_uk": "капуста кейл",
+      "name_pl": "jarmuż",
+      "name_en": "kale",
+      "latin": "Brassica oleracea Acephala Group",
+      "family": "Brassicaceae",
+      "wikidata_id": "Q146212"
+    },
+    {
+      "catalog_id": "UA-PL-025",
+      "slug": "kohlrabi",
+      "name_uk": "кольрабі",
+      "name_pl": "kalarepa",
+      "name_en": "kohlrabi",
+      "latin": "Brassica oleracea Gongylodes Group",
+      "family": "Brassicaceae",
+      "wikidata_id": "Q146212"
+    },
+    {
+      "catalog_id": "UA-PL-026",
+      "slug": "chinese_cabbage",
+      "name_uk": "капуста пекінська",
+      "name_pl": "kapusta pekińska",
+      "name_en": "Chinese cabbage",
+      "latin": "Brassica rapa subsp. pekinensis",
+      "family": "Brassicaceae",
+      "wikidata_id": "Q3384"
+    },
+    {
+      "catalog_id": "UA-PL-027",
+      "slug": "bok_choy",
+      "name_uk": "пак-чой",
+      "name_pl": "pak choi",
+      "name_en": "bok choy",
+      "latin": "Brassica rapa subsp. chinensis",
+      "family": "Brassicaceae",
+      "wikidata_id": "Q165178"
+    },
+    {
+      "catalog_id": "UA-PL-028",
+      "slug": "lettuce",
+      "name_uk": "салат-латук",
+      "name_pl": "sałata",
+      "name_en": "lettuce",
+      "latin": "Lactuca sativa",
+      "family": "Asteraceae",
+      "wikidata_id": "Q83193"
+    },
+    {
+      "catalog_id": "UA-PL-029",
+      "slug": "spinach",
+      "name_uk": "шпинат",
+      "name_pl": "szpinak",
+      "name_en": "spinach",
+      "latin": "Spinacia oleracea",
+      "family": "Amaranthaceae",
+      "wikidata_id": "Q81464"
+    },
+    {
+      "catalog_id": "UA-PL-030",
+      "slug": "swiss_chard",
+      "name_uk": "мангольд",
+      "name_pl": "boćwina",
+      "name_en": "Swiss chard",
+      "latin": "Beta vulgaris Cicla Group",
+      "family": "Amaranthaceae",
+      "wikidata_id": "Q157954"
+    },
+    {
+      "catalog_id": "UA-PL-031",
+      "slug": "arugula",
+      "name_uk": "рукола",
+      "name_pl": "rukola",
+      "name_en": "arugula",
+      "latin": "Eruca vesicaria",
+      "family": "Brassicaceae",
+      "wikidata_id": "Q5395935"
+    },
+    {
+      "catalog_id": "UA-PL-032",
+      "slug": "sorrel",
+      "name_uk": "щавель кислий",
+      "name_pl": "szczaw zwyczajny",
+      "name_en": "common sorrel",
+      "latin": "Rumex acetosa",
+      "family": "Polygonaceae",
+      "wikidata_id": "Q26297"
+    },
+    {
+      "catalog_id": "UA-PL-033",
+      "slug": "dill",
+      "name_uk": "кріп",
+      "name_pl": "koper ogrodowy",
+      "name_en": "dill",
+      "latin": "Anethum graveolens",
+      "family": "Apiaceae",
+      "wikidata_id": "Q26686"
+    },
+    {
+      "catalog_id": "UA-PL-034",
+      "slug": "leaf_parsley",
+      "name_uk": "петрушка листкова",
+      "name_pl": "pietruszka naciowa",
+      "name_en": "leaf parsley",
+      "latin": "Petroselinum crispum",
+      "family": "Apiaceae",
+      "wikidata_id": "Q25284"
+    },
+    {
+      "catalog_id": "UA-PL-035",
+      "slug": "coriander",
+      "name_uk": "коріандр",
+      "name_pl": "kolendra",
+      "name_en": "coriander",
+      "latin": "Coriandrum sativum",
+      "family": "Apiaceae",
+      "wikidata_id": "Q41611"
+    },
+    {
+      "catalog_id": "UA-PL-036",
+      "slug": "basil",
+      "name_uk": "базилік",
+      "name_pl": "bazylia",
+      "name_en": "basil",
+      "latin": "Ocimum basilicum",
+      "family": "Lamiaceae",
+      "wikidata_id": "Q38859"
+    },
+    {
+      "catalog_id": "UA-PL-037",
+      "slug": "thyme",
+      "name_uk": "чебрець звичайний",
+      "name_pl": "tymianek",
+      "name_en": "thyme",
+      "latin": "Thymus vulgaris",
+      "family": "Lamiaceae",
+      "wikidata_id": "Q148668"
+    },
+    {
+      "catalog_id": "UA-PL-038",
+      "slug": "oregano",
+      "name_uk": "материнка звичайна",
+      "name_pl": "oregano",
+      "name_en": "oregano",
+      "latin": "Origanum vulgare",
+      "family": "Lamiaceae",
+      "wikidata_id": "Q134283"
+    },
+    {
+      "catalog_id": "UA-PL-039",
+      "slug": "marjoram",
+      "name_uk": "майоран",
+      "name_pl": "majeranek",
+      "name_en": "marjoram",
+      "latin": "Origanum majorana",
+      "family": "Lamiaceae",
+      "wikidata_id": "Q22694"
+    },
+    {
+      "catalog_id": "UA-PL-040",
+      "slug": "rosemary",
+      "name_uk": "розмарин",
+      "name_pl": "rozmaryn",
+      "name_en": "rosemary",
+      "latin": "Salvia rosmarinus",
+      "family": "Lamiaceae",
+      "wikidata_id": "Q102240169"
+    },
+    {
+      "catalog_id": "UA-PL-041",
+      "slug": "peppermint",
+      "name_uk": "м’ята перцева",
+      "name_pl": "mięta pieprzowa",
+      "name_en": "peppermint",
+      "latin": "Mentha × piperita",
+      "family": "Lamiaceae",
+      "wikidata_id": "Q156037"
+    },
+    {
+      "catalog_id": "UA-PL-042",
+      "slug": "sage",
+      "name_uk": "шавлія лікарська",
+      "name_pl": "szałwia lekarska",
+      "name_en": "sage",
+      "latin": "Salvia officinalis",
+      "family": "Lamiaceae",
+      "wikidata_id": "Q1111359"
+    },
+    {
+      "catalog_id": "UA-PL-043",
+      "slug": "pea",
+      "name_uk": "горох овочевий",
+      "name_pl": "groch",
+      "name_en": "pea",
+      "latin": "Pisum sativum",
+      "family": "Fabaceae",
+      "wikidata_id": "Q25237"
+    },
+    {
+      "catalog_id": "UA-PL-044",
+      "slug": "common_bean",
+      "name_uk": "квасоля звичайна",
+      "name_pl": "fasola zwykła",
+      "name_en": "common bean",
+      "latin": "Phaseolus vulgaris",
+      "family": "Fabaceae",
+      "wikidata_id": "Q42339"
+    },
+    {
+      "catalog_id": "UA-PL-045",
+      "slug": "fava_bean",
+      "name_uk": "біб кінський",
+      "name_pl": "bób",
+      "name_en": "fava bean",
+      "latin": "Vicia faba",
+      "family": "Fabaceae",
+      "wikidata_id": "Q131342"
+    },
+    {
+      "catalog_id": "UA-PL-046",
+      "slug": "zucchini",
+      "name_uk": "кабачок цукіні",
+      "name_pl": "cukinia",
+      "name_en": "zucchini",
+      "latin": "Cucurbita pepo",
+      "family": "Cucurbitaceae",
+      "wikidata_id": "Q7229863"
+    },
+    {
+      "catalog_id": "UA-PL-047",
+      "slug": "pumpkin",
+      "name_uk": "гарбуз великоплідний",
+      "name_pl": "dynia olbrzymia",
+      "name_en": "pumpkin",
+      "latin": "Cucurbita maxima",
+      "family": "Cucurbitaceae",
+      "wikidata_id": "Q161180"
+    },
+    {
+      "catalog_id": "UA-PL-048",
+      "slug": "butternut_squash",
+      "name_uk": "гарбуз мускатний",
+      "name_pl": "dynia piżmowa",
+      "name_en": "butternut squash",
+      "latin": "Cucurbita moschata",
+      "family": "Cucurbitaceae",
+      "wikidata_id": "Q160571"
+    },
+    {
+      "catalog_id": "UA-PL-049",
+      "slug": "watermelon",
+      "name_uk": "кавун",
+      "name_pl": "arbuz",
+      "name_en": "watermelon",
+      "latin": "Citrullus lanatus",
+      "family": "Cucurbitaceae",
+      "wikidata_id": "Q17507129"
+    },
+    {
+      "catalog_id": "UA-PL-050",
+      "slug": "melon",
+      "name_uk": "диня",
+      "name_pl": "melon",
+      "name_en": "melon",
+      "latin": "Cucumis melo",
+      "family": "Cucurbitaceae",
+      "wikidata_id": "Q81602"
+    }
+  ]
+}

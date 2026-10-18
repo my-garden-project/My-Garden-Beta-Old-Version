@@ -1,0 +1,30 @@
+name: garden_mii
+description: Educational beta snapshot of the My Garden mobile planner.
+publish_to: "none"
+version: 0.1.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  shared_preferences: ^2.2.3
+  mobile_scanner: ^7.2.1
+  url_launcher: ^6.3.2
+  image_picker: 1.2.2
+  path_provider: 2.1.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/crop_catalog/
+    - assets/branding/
+    - assets/images/crops/
